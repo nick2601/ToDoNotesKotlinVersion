@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted ="true">
+        <domain includeSubdomains="true">mocky.io</domain>
+    </domain-config>
+</network-security-config>
+
+<!--this means we are allowing the app to use url or its subdomains to be trusted by this app-->

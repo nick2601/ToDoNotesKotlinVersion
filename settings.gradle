@@ -1,0 +1,2 @@
+rootProject.name='ToDoNotesKotlinVersion'
+include ':app'
